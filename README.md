@@ -1,4 +1,4 @@
-# TextSummarizer USing Huggingface
+# TextSummarizer Using Huggingface models to test the mlops functionalities
 
 ### Workflows 
 
