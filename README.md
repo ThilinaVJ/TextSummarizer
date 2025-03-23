@@ -10,4 +10,4 @@
 6. Create our Pipeline-- Training Pipeline,PRediction Pipeline
 7. Front end-- Api's, Training APi's, Batch Prtediction API's
 
-- Thilina Wijerathne -
+Thilina Wijerathne
